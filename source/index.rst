@@ -14,7 +14,7 @@ PuppyPi
    docs/1.Quick_Start_Guide.md
    docs/2.Quick_User_Experience.md
    docs/3.Remote_Tool_Installation_Connection
-   docs/4.Motion_Control_Course.md
+   docs/4.ROS1_Motion_Control_Course.md
    docs/5.ROS1_PC Software_Action_Control_Courses.md
    docs/6.ROS1_Simulation_Course.md
    docs/7.ROS1_AI_Vision_and_Tracking_Course.md
