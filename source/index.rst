@@ -25,10 +25,10 @@ PuppyPi
    docs/12.ROS1_AI_Voice_Interaction_Courses.md
    docs/13.ROS1_Sensor_Development_Course.md
    docs/14.ROS1_Lidar_Course.md
-   docs/15.ROS1_ROS_Robot_Group_Sending_Control.md
-   docs/16.ROS1_SLAM_Mapping_Course.md
-   docs/17.ROS1_Autonomous_Navigation.md
-   docs/18.ROS1_ROS_Robot_with_Robot_Arm.md
+   docs/15.ROS1_SLAM_Mapping_Course.md
+   docs/16.ROS1_Autonomous_Navigation.md
+   docs/17.ROS1_ROS_Robot_with_Robot_Arm.md
+   docs/18.ROS1_ROS_Robot_Group_Sending_Control.md
    docs/19.ROS1_AI_Large_Model_Courses.md
    docs/20.ROS2_Motion_Control_Course.md
    docs/21.ROS2_PC_Software_Action_Editing_Course.md
